@@ -1,0 +1,45 @@
+{
+  "profile":{
+       "image":"images/b2.jpg",
+       "name":"nooka chaitanya kumar reddy",
+    "design":"student",
+    "mobile":"8886789866",
+    "email":"n.chaithanya26@gmail.com"
+  },
+  "career":{
+    "info":"work hard untill you get success"
+  },
+  "education":
+  [
+  {
+
+    "institute":"mits",
+    "qualification":"B.tech",
+    "percentage":"90%",
+    "yop":"2021"
+  },
+{
+  "institute":"govtdpclg",
+  "qualification":"dp",
+  "percentage":"90%",
+  "yop":"2018"
+ },
+ {
+  "institute":"krcs",
+  "qualification":"dp",
+  "percentage":"90%",
+  "yop":"2015"
+  }
+  ],
+  "skills":
+  [
+    {
+"name":"web technologies",
+"info":["html","css","js"]
+},
+{
+"name":"database",
+"info":["jdbc","firebase","sql"]
+}
+]
+}
